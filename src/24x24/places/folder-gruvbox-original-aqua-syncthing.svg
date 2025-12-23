@@ -1,15 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1">
- <rect style="opacity:0.2" width="20" height="12" x="2" y="9.5" rx="1" ry="1"/>
- <path style="fill:#427b58" d="M 2,17 C 2,17.554 2.446,18 3,18 H 21 C 21.554,18 22,17.554 22,17 V 6 C 22,5.446 21.554,5 21,5 H 12 C 10.5,5 10,3 8.5,3 H 3 C 2.446,3 2,3.446 2,4"/>
- <path style="opacity:0.1;fill:#D5D7B3" d="M 3,3 C 2.446,3 2,3.446 2,4 V 4.5 C 2,3.946 2.446,3.5 3,3.5 H 8.5 C 10,3.5 10.5,5.5 12,5.5 H 21 C 21.554,5.5 22,5.946 22,6.5 V 6 C 22,5.446 21.554,5 21,5 H 12 C 10.5,5 10,3 8.5,3 Z"/>
- <rect style="opacity:0.2" width="20" height="12" x="2" y="8.5" rx="1" ry="1"/>
- <rect style="fill:#D5D7B3" width="16" height="8" x="4" y="7" rx="1" ry="1"/>
- <rect style="fill:#8ec07c" width="20" height="12" x="2" y="9" rx="1" ry="1"/>
- <path style="fill:#313D38" d="m 12,11 c -2.209139,0 -4,1.790861 -4,4 0,2.209139 1.790861,4 4,4 2.209139,0 4,-1.790861 4,-4 0,-2.209139 -1.790861,-4 -4,-4 z m 0,0.5 c 1.932997,0 3.5,1.567003 3.5,3.5 0,1.932997 -1.567003,3.5 -3.5,3.5 -1.932997,0 -3.5,-1.567003 -3.5,-3.5 0,-1.932997 1.567003,-3.5 3.5,-3.5 z"/>
- <path fill="none" stroke-width="1.143" style="stroke:#313D38;stroke-width:0.5" d="M 8.5,16 13,15 15.5,13.5"/>
- <path fill="none" stroke-width="1.143" style="stroke:#313D38;stroke-width:0.5" d="M 15,17.5 13,15"/>
- <circle style="fill:#313D38" cx="15" cy="18" r="1"/>
- <circle style="fill:#313D38" cx="16" cy="13" r="1"/>
- <circle style="fill:#313D38" cx="13" cy="15" r="1"/>
- <circle style="fill:#313D38" cx="8" cy="16" r="1"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24" height="24" version="1" xmlns="http://www.w3.org/2000/svg">
+ <rect x="2" y="9.5" width="20" height="12" rx="1" ry="1" opacity=".2"/>
+ <path d="m2 17c0 0.554 0.446 1 1 1h18c0.554 0 1-0.446 1-1v-11c0-0.554-0.446-1-1-1h-9c-1.5 0-2-2-3.5-2h-5.5c-0.554 0-1 0.446-1 1" fill="#427b58"/>
+ <path d="m3 3c-0.554 0-1 0.446-1 1v0.5c0-0.554 0.446-1 1-1h5.5c1.5 0 2 2 3.5 2h9c0.554 0 1 0.446 1 1v-0.5c0-0.554-0.446-1-1-1h-9c-1.5 0-2-2-3.5-2z" fill="#D5D7B3" opacity=".1"/>
+ <rect x="2" y="8.5" width="20" height="12" rx="1" ry="1" opacity=".2"/>
+ <rect x="4" y="7" width="16" height="8" rx="1" ry="1" fill="#D5D7B3"/>
+ <rect x="2" y="9" width="20" height="12" rx="1" ry="1" fill="#8ec07c"/>
+ <path d="m12 11c-2.2091 0-4 1.7909-4 4s1.7909 4 4 4 4-1.7909 4-4-1.7909-4-4-4zm0 0.5c1.933 0 3.5 1.567 3.5 3.5s-1.567 3.5-3.5 3.5-3.5-1.567-3.5-3.5 1.567-3.5 3.5-3.5z" fill="#313D38"/>
+ <path d="m8.5 16 4.5-1 2.5-1.5" fill="none" stroke="#313D38" stroke-width=".5"/>
+ <path d="m15 17.5-2-2.5" fill="none" stroke="#313D38" stroke-width=".5"/>
+ <circle cx="15" cy="18" r="1" fill="#313D38"/>
+ <circle cx="16" cy="13" r="1" fill="#313D38"/>
+ <circle cx="13" cy="15" r="1" fill="#313D38"/>
+ <circle cx="8" cy="16" r="1" fill="#313D38"/>
 </svg>
