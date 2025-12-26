@@ -12,7 +12,7 @@ This is based on Catppuccin's [papirus-folders](https://github.com/catppuccin/pa
 2. Clone this repository and change to cloned directory:
 
 ```sh
-git clone https://github.com/xelser/gruvbox-papirus-folders && cd gruvbox-papirus-folders
+git clone https://github.com/botus99/gruvbox-papirus-folders && cd gruvbox-papirus-folders
 ```
 3. Copy content of `src` to Papirus Directory:
 ```sh
